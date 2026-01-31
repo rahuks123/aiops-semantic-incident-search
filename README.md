@@ -61,6 +61,7 @@ aiops-incident-rag/
 <br>
 ▶️ How to Run
 <br>
+<br>
 Step 1: Build the Knowledge Base
 
 Run this once (or whenever knowledge files change):
@@ -82,7 +83,7 @@ Easy access to relevant runbooks and historical incidents
 
 Foundation for a full RAG-based incident assistant
 
-## Current Constraints and Future deveopment
+## Current Constraints and Future development
 
 There should be more data which should be present in the embedding DB along with the steps which were taken to solve those incidents
 
