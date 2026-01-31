@@ -5,8 +5,6 @@ from rag import retrieve
 
 CONFIDENCE_THRESHOLD = 0.6
 BEDROCK_REGION = "us-east-1"
-MODEL_ID = "anthropic.claude-3-sonnet-20240229-v1:0"
-
 bedrock = boto3.client("bedrock-runtime", region_name=BEDROCK_REGION)
 
 

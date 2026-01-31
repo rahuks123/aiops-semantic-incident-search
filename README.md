@@ -82,3 +82,9 @@ Reduced Mean Time to Resolution (MTTR)
 Easy access to relevant runbooks and historical incidents
 
 Foundation for a full RAG-based incident assistant
+
+## Current Constraints and Future deveopment
+
+There should be more data which should be present in the embedding DB along with the steps which were taken to solve those incidents
+
+The prompt has to be made better to be more precise and better embeddings model
